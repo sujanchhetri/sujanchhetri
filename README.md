@@ -48,6 +48,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Promises, Callbacks, and Async/Await](https://medium.com/@suJJJan/javascript-promises-callbacks-and-async-await-54c3428b22d5?source=rss-8ef79296f97c------2)
+- [Full-Stack Web Developer: A guide to learn](https://medium.com/club-infosphere/full-stack-web-developer-a-guide-to-learn-787aaf659bfa?source=rss-8ef79296f97c------2)
+- [A walk-through to Github](https://medium.com/club-infosphere/a-walk-through-to-github-908485f8ecda?source=rss-8ef79296f97c------2)
+- [The Future of JavaScript Doesn't Exist?](https://medium.com/writers-guild/the-future-of-javascript-doesnt-exist-427e3fd259b3?source=rss-8ef79296f97c------2)
+- [Who Cares?](https://medium.com/writers-guild/who-cares-29e79e545d89?source=rss-8ef79296f97c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
