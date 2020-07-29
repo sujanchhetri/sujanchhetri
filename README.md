@@ -48,11 +48,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Searching Algorithms in JavaScript](https://medium.com/@suJJJan/searching-algorithms-in-javascript-ecb880f70e07?source=rss-8ef79296f97c------2)
 - [How to code?](https://medium.com/@suJJJan/how-to-code-e46f6a2ce753?source=rss-8ef79296f97c------2)
 - [Node Authentication using Passport.js](https://medium.com/@suJJJan/node-authentication-using-passport-js-760f7b52ce14?source=rss-8ef79296f97c------2)
 - [Creating A Chatbot Using Socket.io, API.AI and Web Speech API](https://medium.com/@suJJJan/creating-a-chatbot-using-socket-io-api-ai-and-web-speech-api-844c3177596b?source=rss-8ef79296f97c------2)
 - [JavaScript Promises, Callbacks, and Async/Await](https://medium.com/@suJJJan/javascript-promises-callbacks-and-async-await-54c3428b22d5?source=rss-8ef79296f97c------2)
-- [Full-Stack Web Developer: A guide to learn](https://medium.com/club-infosphere/full-stack-web-developer-a-guide-to-learn-787aaf659bfa?source=rss-8ef79296f97c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
