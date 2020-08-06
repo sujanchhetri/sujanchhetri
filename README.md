@@ -58,9 +58,6 @@
 <br />
 <br />
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=sujanchhetri&hide=issues&show_icons=true&title_color=9400D3&icon_color=9400D3&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 [website]: https://sujjjan.ml
 [twitter]: https://twitter.com/suJJJan
