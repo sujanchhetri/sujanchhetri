@@ -58,6 +58,20 @@
 <br />
 <br />
 
+### 💻 Selected Works:
+<ul style="list-style-type:circle;">
+      <li><a href="https://blogue.tech" target="_blank">Blogue</a></li>
+			<li><a href="https://newsai.netlify.app/" target="_blank">AI-Newsapp</a></li>
+      <li><a href="https://sharesecure.herokuapp.com/" target="_blank">ShareSecure</a></li>
+			<li><a href="https://brave-varahamihira-1e553d.netlify.app/" target="_blank">FacemotionDetector</a></li>
+      <li><a href="https://sujanchhetri.github.io/encrypto/" target="_blank">Encrypto</a></li>
+      <li><a href="https://xoxu.herokuapp.com" target="_blank">chatClient</a></li>
+      <li><a href="https://weatherpiea.herokuapp.com/" target="_blank">weatherpiea</a></li>
+      <li><a href="https://sujanchhetri.github.io/NewsScript/" target="_blank">NewsScrape</a></li>
+       <li><a href="https://sujanchhetri.github.io/passwordgenerator/" target="_blank">PasswordGenerator</a></li>
+
+   </ul> 
+
 
 [website]: https://sujjjan.ml
 [twitter]: https://twitter.com/suJJJan
