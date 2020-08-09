@@ -35,17 +35,6 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Twitter bot with Node.js and Deploy to Heroku](https://medium.com/@suJJJan/twitter-bot-with-node-js-and-deploy-to-heroku-4003a2e6617e?source=rss-8ef79296f97c------2)
-- [Searching Algorithms in JavaScript](https://medium.com/@suJJJan/searching-algorithms-in-javascript-ecb880f70e07?source=rss-8ef79296f97c------2)
-- [How to code?](https://medium.com/@suJJJan/how-to-code-e46f6a2ce753?source=rss-8ef79296f97c------2)
-- [Node Authentication using Passport.js](https://medium.com/@suJJJan/node-authentication-using-passport-js-760f7b52ce14?source=rss-8ef79296f97c------2)
-- [Creating A Chatbot Using Socket.io, API.AI and Web Speech API](https://medium.com/@suJJJan/creating-a-chatbot-using-socket-io-api-ai-and-web-speech-api-844c3177596b?source=rss-8ef79296f97c------2)
-<!-- BLOG-POST-LIST:END -->
-<br />
-<br />
-
 ### 💻 Selected Works:
 <ul style="list-style-type:circle;">
       <li><a href="https://blogue.tech" target="_blank">Blogue</a></li>
@@ -57,6 +46,16 @@
       <li><a href="https://sujanchhetri.github.io/NewsScript/" target="_blank">NewsScrape</a></li>
 
    </ul> 
+   
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Twitter bot with Node.js and Deploy to Heroku](https://medium.com/@suJJJan/twitter-bot-with-node-js-and-deploy-to-heroku-4003a2e6617e?source=rss-8ef79296f97c------2)
+- [Searching Algorithms in JavaScript](https://medium.com/@suJJJan/searching-algorithms-in-javascript-ecb880f70e07?source=rss-8ef79296f97c------2)
+- [How to code?](https://medium.com/@suJJJan/how-to-code-e46f6a2ce753?source=rss-8ef79296f97c------2)
+- [Node Authentication using Passport.js](https://medium.com/@suJJJan/node-authentication-using-passport-js-760f7b52ce14?source=rss-8ef79296f97c------2)
+- [Creating A Chatbot Using Socket.io, API.AI and Web Speech API](https://medium.com/@suJJJan/creating-a-chatbot-using-socket-io-api-ai-and-web-speech-api-844c3177596b?source=rss-8ef79296f97c------2)
+<!-- BLOG-POST-LIST:END -->
+
 
 
 [website]: https://sujjjan.ml
