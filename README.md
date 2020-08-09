@@ -3,7 +3,6 @@
 - 🔭 Sharpening my skills on FullStack Development with Node.js and JavaScript's frameworks.
 - 🤔 Interested in Cryptography and building secure & Scalable platform.
 - 🌱 Currently learning  about Distributed systems & Blockchain.
-
 <br />
 
 ### 🤝 Connect with me:
@@ -30,21 +29,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="postman" width="26px" src="https://ww1.prweb.com/prfiles/2018/10/05/16050123/postman-logo-vert-2018.png" />
-<img align="left" alt="heroku" width="26px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png" />
+<img align="left" alt="postman" width="29px" src="https://ww1.prweb.com/prfiles/2018/10/05/16050123/postman-logo-vert-2018.png" />
+<img align="left" alt="heroku" width="34px" src="https://miro.medium.com/max/500/1*w2RAR48UbSAYv-6y_V-cdA.png" />
 <img align="left" alt="digitalocean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" />
-
-
 <br />
 <br />
-
-### ✨ Checkout my creation
-[<img align="left" alt="blogue.tech" width="30px"   src="https://blogue.tech/static/images/logo.png" />][blogue]
-  
-
-<br />
-<br />
-
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -54,7 +43,6 @@
 - [Node Authentication using Passport.js](https://medium.com/@suJJJan/node-authentication-using-passport-js-760f7b52ce14?source=rss-8ef79296f97c------2)
 - [Creating A Chatbot Using Socket.io, API.AI and Web Speech API](https://medium.com/@suJJJan/creating-a-chatbot-using-socket-io-api-ai-and-web-speech-api-844c3177596b?source=rss-8ef79296f97c------2)
 <!-- BLOG-POST-LIST:END -->
-
 <br />
 <br />
 
@@ -75,7 +63,6 @@
 [twitter]: https://twitter.com/suJJJan
 [instagram]: https://instagram.com/_s_ujan
 [linkedin]: https://linkedin.com/in/suJJJan
-[blogue]: https://blogue.tech/
 
 
 
