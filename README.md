@@ -47,6 +47,7 @@
       <li><a href="https://xoxu.herokuapp.com" target="_blank">chatClient</a></li>
       <li><a href="https://weatherpiea.herokuapp.com/" target="_blank">weatherpiea</a></li>
       <li><a href="https://sujanchhetri.github.io/NewsScript/" target="_blank">NewsScrape</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=sujanchhetri.black-pearlpule" target="_blank">VScode Theme/BlackPearlPule</a></li>
 
    </ul> 
    
