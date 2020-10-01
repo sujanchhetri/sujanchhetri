@@ -39,6 +39,7 @@
 ### 💻 Selected Works:
 <ul style="list-style-type:circle;">
       <li><a href="https://blogue.tech" target="_blank">Blogue</a></li>
+	<li><a href="https://bitblockchain.herokuapp.com/" target="_blank">BitChain</a></li>
 			<li><a href="https://newsai.netlify.app/" target="_blank">AI-Newsapp</a></li>
 	<li><a href="https://basemovie.herokuapp.com/" target="_blank">MovieBase</a></li>
 			<li><a href="https://facemotion.netlify.app/" target="_blank">FacemotionDetector</a></li>
