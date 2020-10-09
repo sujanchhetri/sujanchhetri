@@ -54,8 +54,6 @@
    </ul> 
    
 ### 📕 Latest Blog Posts
-- [Top Programming Languages To Learn](https://blogue.tech/blogs/top-programming-languages-to-learn)
-- [Creating & Publishing a VS code Theme](https://blogue.tech/blogs/creating-and-publishing-a-vs-code-theme)
 <!-- BLOG-POST-LIST:START -->
 - [A walkthrough to Blockchain](https://medium.com/@suJJJan/a-walkthrough-to-blockchain-72449e0131e?source=rss-8ef79296f97c------2)
 - [Twitter bot with Node.js and Deploy to Heroku](https://medium.com/@suJJJan/twitter-bot-with-node-js-and-deploy-to-heroku-4003a2e6617e?source=rss-8ef79296f97c------2)
@@ -63,7 +61,7 @@
 - [How to code?](https://medium.com/@suJJJan/how-to-code-e46f6a2ce753?source=rss-8ef79296f97c------2)
 - [Node Authentication using Passport.js](https://medium.com/@suJJJan/node-authentication-using-passport-js-760f7b52ce14?source=rss-8ef79296f97c------2)
 <!-- BLOG-POST-LIST:END -->
-
+- [Readmore ...](https://blogue.tech/profilepage/sujjjan)
 
 
 [website]: https://sujjjan.ml
