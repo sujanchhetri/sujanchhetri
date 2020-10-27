@@ -43,6 +43,7 @@
 			<li><a href="https://newsai.netlify.app/" target="_blank">AI-Newsapp</a></li>
 	<li><a href="https://basemovie.herokuapp.com/" target="_blank">MovieBase</a></li>
 			<li><a href="https://facemotion.netlify.app/" target="_blank">FacemotionDetector</a></li>
+	<li><a href="https://slackitupbro.web.app/" target="_blank">SlackItUp</a></li>
 	<li><a href="https://photo-spot.netlify.app/" target="_blank">Photospot</a></li>
  <li><a href="https://sujanchhetri.github.io/encrypto/" target="_blank">Encrypto</a></li>
       <li><a href="https://xoxu.herokuapp.com" target="_blank">chatClient</a></li>
