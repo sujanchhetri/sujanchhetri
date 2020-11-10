@@ -41,6 +41,7 @@
       <li><a href="https://bloguedev.herokuapp.com" target="_blank">Blogue</a></li>
 	<li><a href="https://bitblockchain.herokuapp.com/" target="_blank">BitChain</a></li>
 			<li><a href="https://newsai.netlify.app/" target="_blank">AI-Newsapp</a></li>
+	<li><a href="https://projecthubatblogue.netlify.app/" target="_blank">ProjectHub</a></li>
 	<li><a href="https://basemovie.herokuapp.com/" target="_blank">MovieBase</a></li>
 			<li><a href="https://facemotion.netlify.app/" target="_blank">FacemotionDetector</a></li>
 	<li><a href="https://slackitupbro.web.app/" target="_blank">SlackItUp</a></li>
@@ -50,7 +51,6 @@
       <li><a href="https://weatherpiea.herokuapp.com/" target="_blank">weatherpiea</a></li>
       <li><a href="https://sujanchhetri.github.io/NewsScript/" target="_blank">NewsScrape</a></li>
 	<li><a href="https://marketplace.visualstudio.com/items?itemName=sujanchhetri.black-pearlpule" target="_blank">VScode Theme/BlackPearlPule</a></li>
-<li><a href="https://sujanchhetri.github.io/booksearch/" target="_blank">BookSearch</a></li>
 	<li><a href="https://tictaktoae.herokuapp.com/" target="_blank">TicTacToe</a></li>
    </ul> 
    
