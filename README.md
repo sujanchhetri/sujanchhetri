@@ -38,7 +38,7 @@
 
 ### 💻 Selected Works:
 <ul style="list-style-type:circle;">
-      <li><a href="https://blogue.tech" target="_blank">Blogue</a></li>
+      <li><a href="https://bloguedev.herokuapp.com" target="_blank">Blogue</a></li>
 	<li><a href="https://bitblockchain.herokuapp.com/" target="_blank">BitChain</a></li>
 			<li><a href="https://newsai.netlify.app/" target="_blank">AI-Newsapp</a></li>
 	<li><a href="https://basemovie.herokuapp.com/" target="_blank">MovieBase</a></li>
@@ -62,7 +62,7 @@
 - [How to code?](https://medium.com/@suJJJan/how-to-code-e46f6a2ce753?source=rss-8ef79296f97c------2)
 - [Node Authentication using Passport.js](https://medium.com/@suJJJan/node-authentication-using-passport-js-760f7b52ce14?source=rss-8ef79296f97c------2)
 <!-- BLOG-POST-LIST:END -->
-- [Readmore ...](https://blogue.tech/profilepage/sujjjan)
+- [Readmore ...](https://bloguedev.herokuapp.com/sujjjan)
 
 
 [website]: https://sujjjan.ml
