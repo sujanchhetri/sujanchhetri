@@ -36,24 +36,6 @@
 <br />
 <br />
 
-### 💻 Selected Works:
-<ul style="list-style-type:circle;">
-      <li><a href="https://bloguedev.herokuapp.com" target="_blank">Blogue</a></li>
-	<li><a href="https://bitblockchain.herokuapp.com/" target="_blank">BitChain</a></li>
-			<li><a href="https://newsai.netlify.app/" target="_blank">AI-Newsapp</a></li>
-	<li><a href="https://projecthubatblogue.netlify.app/" target="_blank">ProjectHub</a></li>
-	<li><a href="https://basemovie.herokuapp.com/" target="_blank">MovieBase</a></li>
-			<li><a href="https://facemotion.netlify.app/" target="_blank">FacemotionDetector</a></li>
-	<li><a href="https://slackitupbro.web.app/" target="_blank">SlackItUp</a></li>
-	<li><a href="https://photo-spot.netlify.app/" target="_blank">Photospot</a></li>
- <li><a href="https://sujanchhetri.github.io/encrypto/" target="_blank">Encrypto</a></li>
-      <li><a href="https://xoxu.herokuapp.com" target="_blank">chatClient</a></li>
-      <li><a href="https://weatherpiea.herokuapp.com/" target="_blank">weatherpiea</a></li>
-      <li><a href="https://sujanchhetri.github.io/NewsScript/" target="_blank">NewsScrape</a></li>
-	<li><a href="https://marketplace.visualstudio.com/items?itemName=sujanchhetri.black-pearlpule" target="_blank">VScode Theme/BlackPearlPule</a></li>
-	<li><a href="https://tictaktoae.herokuapp.com/" target="_blank">TicTacToe</a></li>
-   </ul> 
-   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A walkthrough to Blockchain](https://medium.com/@suJJJan/a-walkthrough-to-blockchain-72449e0131e?source=rss-8ef79296f97c------2)
