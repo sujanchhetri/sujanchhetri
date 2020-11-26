@@ -44,7 +44,7 @@
 - [How to code?](https://medium.com/@suJJJan/how-to-code-e46f6a2ce753?source=rss-8ef79296f97c------2)
 - [Node Authentication using Passport.js](https://medium.com/@suJJJan/node-authentication-using-passport-js-760f7b52ce14?source=rss-8ef79296f97c------2)
 <!-- BLOG-POST-LIST:END -->
-- [Readmore ...](https://bloguedev.herokuapp.com/profile/sujanchhetri)
+- [Readmore ...](https://blogue.tech/profile/sujanchhetri)
 
 
 [website]: https://sujanchhetri.me
