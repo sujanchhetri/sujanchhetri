@@ -2,7 +2,7 @@
 
 - 🔭 Sharpening my skills on FullStack Development with Node.js and JavaScript's frameworks.
 - 🤔 Interested in Cryptography and building secure & Scalable platform.
-- 🌱 Currently learning...
+- 🪄 checkout: [Blogue](https://blogue.tech)
 <br />
 
 ### 🤝 Connect with me:
