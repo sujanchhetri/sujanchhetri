@@ -1,7 +1,4 @@
 ### Hi there, I'm Sujan 🤓
-
-- 🔭 Sharpening my skills on FullStack Development with Node.js and JavaScript's frameworks.
-- 🤔 Interested in Cryptography and building secure & Scalable platform.
 - 🪄 checkout: [Blogue](https://blogue.tech)
 <br />
 
