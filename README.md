@@ -13,7 +13,7 @@
 <br />
 
 
-[website]: https://sujanchhetri.me
+[website]: https://sujanchhetri.dev
 [twitter]: https://twitter.com/suJJJan
 [instagram]: https://instagram.com/_s_ujan
 [linkedin]: https://linkedin.com/in/suJJJan
