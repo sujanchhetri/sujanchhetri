@@ -1,5 +1,5 @@
 ### Hi there, I'm Sujan 🤓
-- 🪄 checkout: [Blogue](https://blogue.tech)
+- checkout: [Blogue](https://blogue.tech)
 <br />
 
 ### 🤝 Connect with me:
