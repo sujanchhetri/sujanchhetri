@@ -1,6 +1,7 @@
 ### Hi there, I'm Sujan 🤓
-- checkout: [Blogue](https://blogue.tech)
-<br />
+
+### Checkout [Blogue](https://blogue.tech)
+[<img align="center" alt="blogue.tech"  src="https://blogue.tech/static/images/coffee.gif" />][website]
 
 ### 🤝 Connect with me:
 
